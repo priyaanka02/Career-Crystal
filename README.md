@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-live--streaming-brightgreen.svg)
 
-**🚀 [Live Demo](https://career-crystal-6qunfqkbkppuxzawl2qc4t.streamlit.app/) | 📚 [Documentation](#-documentation) | 🔧 [Installation](#-installation)**
+**🚀 [Live Demo](https://career-crystal-6qunfqkbkppuxzawl2qc4t.streamlit.app/) |
 
 *A revolutionary real-time job market intelligence platform that operates like a stock market dashboard, featuring AI-powered insights, autonomous data collection, and stunning crystal-themed aesthetics.*
 
