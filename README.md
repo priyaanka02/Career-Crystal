@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-live--streaming-brightgreen.svg)
 
-**🚀 [Live Demo](https://career-crystal.streamlit.app) | 📚 [Documentation](#-documentation) | 🔧 [Installation](#-installation)**
+**🚀 [Live Demo](https://career-crystal-6qunfqkbkppuxzawl2qc4t.streamlit.app/) | 📚 [Documentation](#-documentation) | 🔧 [Installation](#-installation)**
 
 *A revolutionary real-time job market intelligence platform that operates like a stock market dashboard, featuring AI-powered insights, autonomous data collection, and stunning crystal-themed aesthetics.*
 
@@ -31,7 +31,7 @@ CareerCrystal transforms job market analysis into a **real-time, autonomous inte
 
 ### 💡 Try It Now - Zero Setup Required!
 
-**🔗 [Access CareerCrystal Live](https://career-crystal.streamlit.app)**
+**🔗 [Access CareerCrystal Live](https://career-crystal-6qunfqkbkppuxzawl2qc4t.streamlit.app/)**
 
 Simply click the link above to experience the full platform instantly. No downloads, installations, or configuration needed!
 
@@ -331,7 +331,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-**🔗 [Live Demo](https://career-crystal.streamlit.app)** | **🐙 [GitHub](https://github.com/priyaanka02/Career-Crystal)** | **💼 [LinkedIn](https://linkedin.com/in/your-profile)**
+**🔗 [Live Demo](https://career-crystal-6qunfqkbkppuxzawl2qc4t.streamlit.app/)** | **🐙 [GitHub](https://github.com/priyaanka02/Career-Crystal.git)** | **💼 [LinkedIn](https://www.linkedin.com/in/priyankachoudhary0302/)**
 
 ---
 
