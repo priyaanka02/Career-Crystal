@@ -1,0 +1,10 @@
+{
+  "last_updated": "2025-09-19T19:22:00Z",
+  "total_jobs": 0,
+  "jobs": [],
+  "sources": ["github", "remote", "stackoverflow"],
+  "metadata": {
+    "scraping_frequency": "hourly",
+    "status": "active"
+  }
+}
