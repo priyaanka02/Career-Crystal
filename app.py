@@ -23,7 +23,7 @@ st.markdown("""
     .main {
         background: 
             linear-gradient(135deg, rgba(255,179,217,0.7) 0%, rgba(230,215,255,0.7) 25%, rgba(200,230,201,0.7) 50%, rgba(255,248,220,0.7) 75%, rgba(255,218,185,0.7) 100%),
-            url('https://raw.githubusercontent.com/priyaanka02/CareerCrystal/main/assets/images/background.jpg') center/cover no-repeat fixed;
+            url('https://raw.githubusercontent.com/priyaanka02/Career-Crystal/main/assets/images/background.jpg') center/cover no-repeat fixed;
         font-family: 'Helvetica Neue', sans-serif;
         min-height: 100vh;
     }
